@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.ConsoleApplication", "RecipeCalculator.ConsoleApplication\RecipeCalculator.ConsoleApplication.csproj", "{07C846E3-64A1-4545-83C7-8250F58A9AFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.Core", "RecipeCalculator.Core\RecipeCalculator.Core.csproj", "{DE895F18-618D-46EE-974A-369FE6506328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeCalculator.Core.Test", "RecipeCalculator.Core.Test\RecipeCalculator.Core.Test.csproj", "{2678B1C0-5BAA-45E6-A9BC-9F4D6A392ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C846E3-64A1-4545-83C7-8250F58A9AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C846E3-64A1-4545-83C7-8250F58A9AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C846E3-64A1-4545-83C7-8250F58A9AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C846E3-64A1-4545-83C7-8250F58A9AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE895F18-618D-46EE-974A-369FE6506328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE895F18-618D-46EE-974A-369FE6506328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE895F18-618D-46EE-974A-369FE6506328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE895F18-618D-46EE-974A-369FE6506328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2678B1C0-5BAA-45E6-A9BC-9F4D6A392ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2678B1C0-5BAA-45E6-A9BC-9F4D6A392ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2678B1C0-5BAA-45E6-A9BC-9F4D6A392ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2678B1C0-5BAA-45E6-A9BC-9F4D6A392ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
